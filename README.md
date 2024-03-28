@@ -15,6 +15,7 @@ Now clone this repository.
 git clone https://github.com/TheZ0/Altium-Master-Library.git
 ```
 Next boot up Altium in the current project you're working on. Right click your .PrjPcb file add click "Add Existing to Project".
+
 ![image](https://github.com/TheZ0/Altium-Master-Library/assets/142558812/52a5d62b-869c-4537-83eb-e22c5c6e642c)
 
 Navigate to wherever your libraries are saved and add both the Master.SchLib and Master.PcbLib files to your project. You will now have access to the components in the master libraries.
