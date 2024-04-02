@@ -5,10 +5,6 @@ PCB and schematic libraries for Altium designer containing schematic symbols and
 Start by cd'ing into your local Altium directory (Or whichever directory you want the libraries to live) in my case this is `C:/Users/Public/Documents/Altium`. Create a new folder "Libraries"
 ```
 cd C:/Users/Public/Documents/Altium
-
-mkdir Libraries
-
-cd Libraries
 ```
 Now clone this repository.
 ```
